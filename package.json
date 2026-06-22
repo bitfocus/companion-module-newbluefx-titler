@@ -17,6 +17,6 @@
     "license": "MIT",
     "dependencies": {
         "qwebchannel": "5.9.0",
-        "ws": "^7.5.10"
+        "ws": "^7.5.11"
     }
 }
